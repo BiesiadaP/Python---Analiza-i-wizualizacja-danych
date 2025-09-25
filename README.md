@@ -1,6 +1,6 @@
-# aiwd_project
-Projekt obejmuje przeprowadzenie analizy badań nt. otyłości, pobranych z ogólnodostępnych danych dostępnych pod linkiem na dole strony. Kolumny podzielono na zmienne objaśniające i zmienną objaśnianą, szukając jakie czynniki mają najwięskzy wpływ na stopień otyłości.
-Projekt wykonano w notatnikach jupyter, w języku Python. Projekt składa się z następujących kroków, zapisanych w osobnych plikach:
+# Aiwd_projekt
+Projekt obejmuje przeprowadzenie analizy, wizualizacji badań nt. otyłości, pobranych z ogólnodostępnych danych dostępnych pod linkiem na dole strony. Kolumny podzielono na zmienne objaśniające i zmienną objaśnianą, szukając jakie czynniki mają największy wpływ na stopień otyłości. W celu znalezienia tych czynników wykorzystano uczenie maszynowe xboost, wyniki są także zwizualizowane
+Projekt składa się z następujących kroków, zapisanych w osobnych notebookach jupyter:
 
 1. Oczyszczono i przetransformowano dane źródłowe.
 2. Przedstawiono wizualnie podstawowe cehy danych żrodlowych.
